@@ -18,4 +18,4 @@ Abaixo todas as marcações tem abertura e fechamento.
 __Negrito__ dois underlines
 *Itálico* um astesrico ou
 _Itálico_ um underline
-~~Palvra riscada~~ dois tis,tiles.
+~~Palavra riscada~~ dois tis,tiles.
