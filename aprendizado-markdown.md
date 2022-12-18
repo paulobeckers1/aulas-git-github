@@ -9,6 +9,9 @@ Titulos
 ##### titulo 5 
 ###### titulo 6
 
+Linha abaixo de titulos ou frases
+--- três traços ou
+*** três asteriscos
 
 Usado no readme ou qualquer arquivo md ou markdown, issues, requests.
 
