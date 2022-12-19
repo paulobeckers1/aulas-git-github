@@ -24,13 +24,32 @@ _Itálico_ um underline
 ~~Palavra riscada~~ dois tis,tiles.
 Podemos __*misturar*__ __*negrito e italico*__ configurações.
 
-Lista numerada por ordem crescente
+Lista numerada:
 1. teste 1
 545. teste 2
 2234234. teste 3
 
-mesmo que esteja colocando outros números a lista numerada permanece em ordem crescente. Para fazer um sub-item basta espaçar três vezes. Exemplo teste dois dentro do um, lembrando que o sub-item fica en números romanos.
+Mesmo que esteja colocando outros números antes do ponto a lista numerada continua em ordem crescente. Para fazer um sub-item basta espaçar três vezes. Exemplo teste dois dentro do um, lembrando que o sub-item fica em números romanos.
 
 1. teste 1
    1. teste 2
    1. teste 3
+
+Lista demarcada: asterisco ou traço
+* Teste
+* Teste
+* Teste
+   * Teste 3 espaços
+* Teste
+
+Lista de Tarefas: traço espaço abre colchetes espaço e fecha colchetes espaço frase
+- [ ] Criar a página principal
+- [ ] Criar a página da loja
+- [ ] Finalizar a reunião com o cliente
+- [ ] Receber pagamentos
+
+Para marcar como realizadas basta marcar com um x
+- [x] Criar a página principal
+- [x] Criar a página da loja
+- [ ] Finalizar a reunião com o cliente
+- [ ] Receber pagamentos
