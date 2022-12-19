@@ -63,5 +63,5 @@ Num | Nome | Nota
 
 Terminou a tabela
 
-Comando: Crase abre e fecha (`)
+Comando: abre e fecha a Crase acento agudo ao contrário
 Não entendo direito para que serve o comando `document.getElementById()` da linguagem JavaScript
