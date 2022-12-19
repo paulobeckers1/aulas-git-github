@@ -56,7 +56,7 @@ Para marcar como realizadas basta marcar com um x
 
 Tabela 
 Num | Nome | Nota 
-
+---|---|---
 1 | Paulo | 8,5
 2 | José | 10,0
 3 | Maria | 9,0
