@@ -78,6 +78,7 @@ else:
     print(f'O valor {num} é ÍMPAR')
 ```
 
-Emojis: dois pontos palavra
+Emojis: dois pontos palavra dois pontos para usar emojis em titulos use o emojipedia.org para copiar os emojis.
+Exemplos: 
 :vulcan_salute:
 :hand:
