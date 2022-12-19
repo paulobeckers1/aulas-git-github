@@ -77,3 +77,6 @@ if num % 2 == 0:
 else:
     print(f'O valor {num} é ÍMPAR')
 ```
+
+Emojis: dois pontos palavra
+:vulcan-saudation:
