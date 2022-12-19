@@ -51,5 +51,5 @@ Lista de Tarefas: traço espaço abre colchetes espaço e fecha colchetes espaç
 Para marcar como realizadas basta marcar com um x
 - [x] Criar a página principal
 - [x] Criar a página da loja
-- [ ] Finalizar a reunião com o cliente
-- [ ] Receber pagamentos
+- [x] Finalizar a reunião com o cliente
+- [x] Receber pagamentos
