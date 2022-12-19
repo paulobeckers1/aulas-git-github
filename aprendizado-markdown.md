@@ -65,3 +65,16 @@ Terminou a tabela
 
 Comando: abre e fecha a Crase acento agudo ao contrário.
 Não entendo direito para que serve o comando `document.getElementById()` da linguagem JavaScript
+
+Trechos de programa: abre e fecha três crases.
+
+Olha meu programa em Python
+
+```
+num = int(input('Digite um valor:')
+if num % 2 == 0:
+    print(f'O valor {num} é PAR')
+else:
+    print(f'O valor {num} é ÍMPAR')
+
+```
