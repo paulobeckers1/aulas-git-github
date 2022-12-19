@@ -54,7 +54,7 @@ Para marcar como realizadas basta marcar com um x
 - [x] Finalizar a reunião com o cliente
 - [x] Receber pagamentos
 
-Tabela 
+Tabela: alt 124 pipe alt 92 contra barra
 Num | Nome | Nota 
 ---|---|---
 1 | Paulo | 8,5
@@ -62,3 +62,6 @@ Num | Nome | Nota
 3 | Maria | 9,0
 
 Terminou a tabela
+
+Comando: Crase abre e fecha ` 
+Não entendo direito para que serve o comando `document.getElementById()` da linguagem JavaScript
