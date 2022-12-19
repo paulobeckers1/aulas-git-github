@@ -53,3 +53,12 @@ Para marcar como realizadas basta marcar com um x
 - [x] Criar a página da loja
 - [x] Finalizar a reunião com o cliente
 - [x] Receber pagamentos
+
+Tabela 
+Num | Nome | Nota 
+---|---|---
+1 | Paulo | 8,5
+2 | José | 10,0
+3 | Maria | 9,0
+
+Terminou a tabela
