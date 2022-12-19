@@ -79,4 +79,5 @@ else:
 ```
 
 Emojis: dois pontos palavra
-:vulcan-saudation:
+:vulcan_salute:
+:hand:
