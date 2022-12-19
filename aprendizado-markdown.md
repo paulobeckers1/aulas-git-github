@@ -63,5 +63,5 @@ Num | Nome | Nota
 
 Terminou a tabela
 
-Comando: Crase abre e fecha ` 
+Comando: Crase abre e fecha (`)
 Não entendo direito para que serve o comando `document.getElementById()` da linguagem JavaScript
