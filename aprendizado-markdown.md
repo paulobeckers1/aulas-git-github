@@ -82,3 +82,5 @@ Emojis: dois pontos palavra dois pontos para usar emojis em titulos use o emojip
 Exemplos: 
 :vulcan_salute:
 :hand:
+
+Fim de aula Markdown existe um repositório do @gustavoguanabara que fez as aulas em pdf sobre Git e GitHub. Esse repositório do curso eu clonei, para fins de estudo e aprendizado.
